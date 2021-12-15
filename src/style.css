@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+* {
+  background-color: rgb(155, 206, 209);
+}
+
+.red {
+  color: red;
+}
